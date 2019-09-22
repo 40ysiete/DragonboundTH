@@ -14,6 +14,7 @@ Para usar este theme presiona 'Opciones', luego en 'Theme' el botón 'Custom' y 
 "game_stuff":"https://raw.githubusercontent.com/40ysiete/DragonboundTH/master/img/game_stuff.png",
 "bg_full":"https://raw.githubusercontent.com/40ysiete/DragonboundTH/master/img/bg_full5.png"}
 ```
+* Para actualizar el tema, presiona Ctrl+F5 en la página de Dragonbound.
 
 # English
 To use this theme press 'Options' then the on 'Theme' press the button 'Custom' and paste this text:
@@ -28,3 +29,4 @@ To use this theme press 'Options' then the on 'Theme' press the button 'Custom' 
 "game_stuff":"https://raw.githubusercontent.com/40ysiete/DragonboundTH/master/img/game_stuff.png",
 "bg_full":"https://raw.githubusercontent.com/40ysiete/DragonboundTH/master/img/bg_full5.png"}
 ```
+* To update this theme, press Ctrl+F5 on Dragonbound page.
